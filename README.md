@@ -1,6 +1,8 @@
 # uhired.net
 ## Technology career planning and sharing
 
+https://boiling-anchorage-83834.herokuapp.com/
+
 ### Concept
  A portal for entry-level tech career.
 
@@ -10,4 +12,5 @@ Visualize an application that enables one to very quickly gain understanding of 
 Need to add to index.js
 
 import 'semantic-ui-css/semantic.min.css';
+
 
